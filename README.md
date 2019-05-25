@@ -1,3 +1,57 @@
+# amplify-angular-auth
+## Git連携
+```
+gitmoji -i  // gitmoji連駅
+git add .
+git commit
+git remote add origin git@github.com:mori-hisayuki/amplify-angular-auth.git
+git push origin master
+```
+
+## Angularバージョン
+```
+ng v
+
+     _                      _                 ____ _     ___
+    / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
+   / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
+  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
+ /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
+                |___/
+
+
+Angular CLI: 7.3.9
+Node: 10.9.0
+OS: darwin x64
+Angular:
+...
+
+Package                      Version
+------------------------------------------------------
+@angular-devkit/architect    0.13.9
+@angular-devkit/core         7.3.9
+@angular-devkit/schematics   7.3.9
+@angular/cli                 7.3.9
+@schematics/angular          7.3.9
+@schematics/update           0.13.9
+rxjs                         6.3.3
+typescript                   3.2.4
+```
+
+## Angularプロジェクトの準備
+```
+ng new amplify-angular-auth --routing
+```
+
+## gitmoji
+```
+gitmoji -i
+```
+
+
+---
+
+
 # AmplifyAngularAuth
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
