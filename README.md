@@ -48,6 +48,10 @@ ng new amplify-angular-auth --routing
 gitmoji -i
 ```
 
+## Amplify-Angularのインストール
+```
+npm install -dev-save aws-amplify aws-amplify-angular
+```
 
 ---
 
